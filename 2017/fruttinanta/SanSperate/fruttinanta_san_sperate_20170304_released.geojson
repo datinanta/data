@@ -1,0 +1,733 @@
+{
+
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "_id": "58ba92a0397e704fa6dbdc87",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.005805208913955,
+                    39.35646381276528,
+                    41.97558975219727
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Giardino Ibba 1",
+                "produttore": "Salvatore Ibba",
+                "specie": "Pesche, arance washington navel",
+                "comune": "San Sperate",
+                "localita": "Ponti becciu",
+                "img": "<img src=\" //uploads/upload_1c24727413e2253f50b6f57ed66e2f8a.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata",
+                "datetime": "2017-03-04T10:10:40.331Z"
+            }
+        },
+        {
+            "_id": "58ba9347397e704fa6dbdc88",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.005717939533568,
+                    39.35220913248468,
+                    41.97558975219727
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Giardino Ibba 2",
+                "produttore": "Valentino Ibba",
+                "specie": "Pesche, arance washington navel",
+                "comune": "San Sperate",
+                "localita": "Ponti becciu",
+                "img": "<img src=\" //uploads/upload_7e9f41eb5ac58c45b96017aff2934956.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata",
+                "datetime": "2017-03-04T10:13:27.472Z"
+            }
+        },
+        {
+            "_id": "58ba9475397e704fa6dbdc89",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.005488125915324,
+                    39.34100493333821,
+                    41.97558975219727
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Giardino Piras",
+                "produttore": "Piergiorgio Piras",
+                "specie": "Pesche, albicocche",
+                "comune": "San Sperate",
+                "localita": "Ponti becciu",
+                "img": "<img src=\" //uploads/upload_18bbb5a61e071391cedd7049b29b7ea9.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata",
+                "datetime": "2017-03-04T10:18:29.611Z"
+            }
+        },
+        {
+            "_id": "58ba9721397e704fa6dbdc8a",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.005244702730906,
+                    39.32913722178827,
+                    41.97558975219727
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Giardino Casti",
+                "produttore": "Paolo Casti",
+                "specie": "Pesche, albicocche, susine",
+                "comune": "San Sperate",
+                "localita": "Ponti becciu",
+                "img": "<img src=\" //uploads/upload_88e51aa8e6086d21e7eb8231ffbfc1f3.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata",
+                "datetime": "2017-03-04T10:29:53.046Z"
+            }
+        },
+        {
+            "_id": "58ba9b34397e704fa6dbdc8b",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.00449818722471,
+                    39.29274204781409,
+                    41.97558975219727
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Azienda Murgia",
+                "produttore": "Gianni Murgia",
+                "specie": "Pesche",
+                "comune": "San Sperate",
+                "localita": "",
+                "img": "<img src=\" //uploads/upload_e5179063a99d0209f22cb5dae195108f.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata",
+                "datetime": "2017-03-04T10:47:16.172Z"
+            }
+        },
+        {
+            "_id": "58ba9b6a397e704fa6dbdc8c",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.00449818722471,
+                    39.29274204781409,
+                    41.97558975219727
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Azienda Murgia",
+                "produttore": "Gianni Murgia",
+                "specie": "Pesche",
+                "comune": "San Sperate",
+                "localita": "",
+                "img": "<img src=\" //uploads/upload_564065d5b4846e1d4d14f4034d1dc33f.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata",
+                "datetime": "2017-03-04T10:48:10.170Z"
+            }
+        },
+        {
+            "_id": "58ba9dd2397e704fa6dbdc8d",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.02395557401048,
+                    39.34055642441027,
+                    38.38539886474609
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Azienda Lussu",
+                "produttore": "Eraldo Lussu",
+                "specie": "Pesche, susine, albicocche",
+                "comune": "San Sperate",
+                "localita": "Via su Predi",
+                "img": "<img src=\" //uploads/upload_82ca710645111c36a4767d3a858ec18b.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata, biologica",
+                "datetime": "2017-03-04T10:58:26.597Z"
+            }
+        },
+        {
+            "_id": "58ba9e82397e704fa6dbdc8e",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.023939658153045,
+                    39.34051214094058,
+                    33.95620727539062
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Azienda Lussu",
+                "produttore": "Eraldo Lussu",
+                "specie": "Pesche, susine, albicocche",
+                "comune": "San Sperate",
+                "localita": "Via su Predi",
+                "img": "<img src=\" //uploads/upload_784d93105f9229cf29642b6e04f55bf2.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata, biologica",
+                "datetime": "2017-03-04T11:01:22.621Z"
+            }
+        },
+        {
+            "_id": "58ba9fca397e704fa6dbdc8f",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.026641688646274,
+                    39.34097200774539,
+                    33.66515731811523
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Azienda Lussu",
+                "produttore": "Eraldo Lussu",
+                "specie": "Fragole",
+                "comune": "San Sperate",
+                "localita": "Via su Predi",
+                "img": "<img src=\" //uploads/upload_45ac9f068b24b0861cdedec519abde83.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata, biologica",
+                "datetime": "2017-03-04T11:06:50.647Z"
+            }
+        },
+        {
+            "_id": "58baa3ff397e704fa6dbdc90",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.006732303919021,
+                    39.36416779114573,
+                    40.615966796875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Giardino Piras",
+                "produttore": "Ignazio Piras",
+                "specie": "Pesche, arance tarocco",
+                "comune": "San Sperate",
+                "localita": "Atzeri",
+                "img": "<img src=\" //uploads/upload_c8c0cfa657bdf6de9eff5896dd8ce7fa.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata",
+                "datetime": "2017-03-04T11:24:47.584Z"
+            }
+        },
+        {
+            "_id": "58baa4e3397e704fa6dbdc91",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.006792376334731,
+                    39.36327599457706,
+                    40.615966796875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Giardino Cannas",
+                "produttore": "Ignazio Cannas",
+                "specie": "Pesche ",
+                "comune": "San Sperate",
+                "localita": "Atzeri",
+                "img": "<img src=\" //uploads/upload_d7f613694ffb0f7b9e2edab581f830e5.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata",
+                "datetime": "2017-03-04T11:28:35.902Z"
+            }
+        },
+        {
+            "_id": "58baa6ca397e704fa6dbdc92",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.0136975,
+                    39.367535,
+                    40.615966796875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Giardino Piras",
+                "produttore": "Piergiorgio Piras",
+                "specie": "Pesche Vistarich, albicocche vitillo, albicocche bella d'imola",
+                "comune": "San Sperate",
+                "localita": "Atzeri",
+                "img": "<img src=\" //uploads/upload_d654e23593585bf338b47746cb1c3602.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata",
+                "datetime": "2017-03-04T11:36:42.426Z"
+            }
+        },
+        {
+            "_id": "58baa70f397e704fa6dbdc93",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.0136975,
+                    39.367535,
+                    40.615966796875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Giardino Piras",
+                "produttore": "Piergiorgio Piras",
+                "specie": "Pesche Vistarich, albicocche vitillo, albicocche bella d'imola",
+                "comune": "San Sperate",
+                "localita": "Atzeri",
+                "img": "<img src=\" //uploads/upload_0b6d51fd08e70aa0f3418535b04a4235.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata",
+                "datetime": "2017-03-04T11:37:51.658Z"
+            }
+        },
+        {
+            "_id": "58baa74d397e704fa6dbdc94",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.0136975,
+                    39.367535,
+                    40.615966796875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Giardino Piras",
+                "produttore": "Piergiorgio Piras",
+                "specie": "Pesche Vistarich, albicocche vitillo, albicocche bella d'imola",
+                "comune": "San Sperate",
+                "localita": "Atzeri",
+                "img": "<img src=\" //uploads/upload_eef98de583123a82214570654e1cde24.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata",
+                "datetime": "2017-03-04T11:38:53.451Z"
+            }
+        },
+        {
+            "_id": "58baa9cf397e704fa6dbdc95",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.006093916971965,
+                    39.34123755593354,
+                    40.615966796875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Azienda Meloni",
+                "produttore": "Massimo Meloni",
+                "specie": "Pesche sagittaria",
+                "comune": "San Sperate",
+                "localita": "Santa Suya",
+                "img": "<img src=\" //uploads/upload_5423a81fcc70057cc6a5f5e32e47d5ff.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata",
+                "datetime": "2017-03-04T11:49:35.969Z"
+            }
+        },
+        {
+            "_id": "58baaacc397e704fa6dbdc96",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.015632572780623,
+                    39.35684605333916,
+                    40.99170684814453
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Azienda Figus",
+                "produttore": "Figus Mauro",
+                "specie": "Pesche",
+                "comune": "San Sperate",
+                "localita": "Corte pisano",
+                "img": "<img src=\" //uploads/upload_4672b05d4c876f4389b8b572e189505d.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata",
+                "datetime": "2017-03-04T11:53:48.711Z"
+            }
+        },
+        {
+            "_id": "58baab21397e704fa6dbdc97",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.01549147820841,
+                    39.35597800324735,
+                    40.99170684814453
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Azienda Figus Giuliano",
+                "produttore": "Figus Giuliano",
+                "specie": "Albicocche",
+                "comune": "San Sperate",
+                "localita": "Corte pisano",
+                "img": "<img src=\" //uploads/upload_6f2b4fc7a13b0f0e76c43114ea1e570f.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata",
+                "datetime": "2017-03-04T11:55:13.817Z"
+            }
+        },
+        {
+            "_id": "58baab84397e704fa6dbdc98",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.015318534628681,
+                    39.35491400987526,
+                    40.99170684814453
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Azienda Salis",
+                "produttore": "Ignazio Salis",
+                "specie": "Arance washington",
+                "comune": "San Sperate",
+                "localita": "Corte pisano",
+                "img": "<img src=\" //uploads/upload_7f00f0d35575afd1194b877f598773b1.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata",
+                "datetime": "2017-03-04T11:56:52.328Z"
+            }
+        },
+        {
+            "_id": "58baace1397e704fa6dbdc99",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.014974372174978,
+                    39.35279663396594,
+                    40.99170684814453
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Azienda Pitas",
+                "produttore": "Piergiorgio Piras",
+                "specie": "Arance washington",
+                "comune": "San Sperate",
+                "localita": "Corte pisano",
+                "img": "<img src=\" //uploads/upload_f2c8bd6c6d8ecb67d255e911c151d1aa.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata",
+                "datetime": "2017-03-04T12:02:41.238Z"
+            }
+        },
+        {
+            "_id": "58baad26397e704fa6dbdc9a",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.014785455613083,
+                    39.35163437069356,
+                    40.99170684814453
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Azienda Pitas",
+                "produttore": "Piergiorgio Piras",
+                "specie": "Pesche sagittaria",
+                "comune": "San Sperate",
+                "localita": "Corte pisano",
+                "img": "<img src=\" //uploads/upload_b5f08fd4f6e346f2ba0e09498dd69995.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata",
+                "datetime": "2017-03-04T12:03:50.696Z"
+            }
+        },
+        {
+            "_id": "58baad62397e704fa6dbdc9b",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.01472815307126,
+                    39.35128182987878,
+                    40.99170684814453
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Azienda Piras",
+                "produttore": "Piergiorgio Piras",
+                "specie": "Clementine, limoni",
+                "comune": "San Sperate",
+                "localita": "Corte pisano",
+                "img": "<img src=\" //uploads/upload_5e3abc3a57a3fff39c31a1f6e4095be4.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata",
+                "datetime": "2017-03-04T12:04:50.868Z"
+            }
+        },
+        {
+            "_id": "58baae3d397e704fa6dbdc9c",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.01446463899887,
+                    39.34966062320896,
+                    40.99170684814453
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Azienda Murgia",
+                "produttore": "Massimo Murgia",
+                "specie": "Pesche, susine, albicocche, arance, clementine",
+                "comune": "San Sperate",
+                "localita": "Corte pisano",
+                "img": "<img src=\" //uploads/upload_90fe50e5f3e6a266ca1ee7df1ada0ab9.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata",
+                "datetime": "2017-03-04T12:08:29.073Z"
+            }
+        },
+        {
+            "_id": "58bab264397e704fa6dbdc9d",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.01230524290334,
+                    39.33637546271115,
+                    40.99170684814453
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Azienda Marcia",
+                "produttore": "Stefano Marcia",
+                "specie": "Pesche",
+                "comune": "San Sperate",
+                "localita": "Corte pisano",
+                "img": "<img src=\" //uploads/upload_8cde5c815951e40985a9c9f3b5de2a0d.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata",
+                "datetime": "2017-03-04T12:26:12.004Z"
+            }
+        },
+        {
+            "_id": "58bab2f2397e704fa6dbdc9e",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.011021793797676,
+                    39.32847935343523,
+                    40.99170684814453
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Azienda Casti",
+                "produttore": "Flaviano Casti",
+                "specie": "Arance",
+                "comune": "San Sperate",
+                "localita": "Corte pisano",
+                "img": "<img src=\" //uploads/upload_5397388979448f83280efaad6ed88603.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata",
+                "datetime": "2017-03-04T12:28:34.360Z"
+            }
+        },
+        {
+            "_id": "58bab3ba397e704fa6dbdc9f",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.010301436744014,
+                    39.32404753028297,
+                    40.99170684814453
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Azienda Spiga",
+                "produttore": "Walter Spiga",
+                "specie": "Olivo",
+                "comune": "San Sperate",
+                "localita": "",
+                "img": "<img src=\" //uploads/upload_2eee85730de4ad83e323bf0788c44a8e.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "Integrata",
+                "datetime": "2017-03-04T12:31:54.267Z"
+            }
+        },
+        {
+            "_id": "58bad62b397e704fa6dbdca0",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.0006339,
+                    39.3531493,
+                    0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Giardino Lussu",
+                "produttore": "Maria Immacolata Lussu",
+                "specie": "Susine, uva, mele, arance, clementine",
+                "comune": "San Sperate",
+                "localita": "Su Pirastu",
+                "img": "<img src=\" //uploads/upload_a5492da94982dffde2f4282de5ffee79.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "",
+                "datetime": "2017-03-04T14:58:51.437Z"
+            }
+        },
+        {
+            "_id": "58bad752397e704fa6dbdca1",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    8.584217,
+                    39.183026,
+                    0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Azienda Collu Soc Semplice",
+                "produttore": "F.lli Collu Cristiano e Stefano",
+                "specie": "Pesche",
+                "comune": "San Sperate",
+                "localita": "Bia Assemini",
+                "img": "<img src=\" //uploads/upload_4b7c2f1ff48ae064ab66a424f1e3f70c.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "",
+                "datetime": "2017-03-04T15:03:46.298Z"
+            }
+        },
+        {
+            "_id": "58bad7ec397e704fa6dbdca2",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.0042787,
+                    39.3349606,
+                    84
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Azienda Murgia",
+                "produttore": "Gianni Gelsomino Murgia",
+                "specie": "Pesche",
+                "comune": "San Sperate",
+                "localita": "Bia Assemini",
+                "img": "<img src=\" //uploads/upload_91fbd229842ce9acdf2506838f2beb6c.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "",
+                "datetime": "2017-03-04T15:06:20.138Z"
+            }
+        },
+        {
+            "_id": "58bc5e1792ca2d2f05701c0e",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.014792,
+                    39.3523704,
+                    41
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Azienda Cast",
+                "produttore": "Stefano Casti",
+                "specie": "Frgole, ortaggi",
+                "comune": "San Sperate",
+                "localita": "",
+                "img": "<img src=\" //uploads/upload_1fa3fe234f3f5c065f7213ed3650c05b.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "",
+                "datetime": "2017-03-05T18:51:03.981Z"
+            }
+        },
+        {
+            "_id": "58bc5e7c92ca2d2f05701c0f",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.0042663,
+                    39.3497509,
+                    41
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Azienda Schirru",
+                "produttore": "Diego Schirru",
+                "specie": "Fragole",
+                "comune": "San Sperate",
+                "localita": "Strada San Sperate-Decimomannu",
+                "img": "<img src=\" //uploads/upload_05093ac31b92a7a92ec06c6a6f885fb5.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "",
+                "datetime": "2017-03-05T18:52:44.740Z"
+            }
+        },
+        {
+            "_id": "58bc5ec992ca2d2f05701c10",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.0085335,
+                    39.3644675,
+                    41
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Azienda Casti",
+                "produttore": "Riccardo Casti",
+                "specie": "Pesche",
+                "comune": "San Sperate",
+                "localita": "Piscina'e Figus",
+                "img": "<img src=\" //uploads/upload_8652ff001912fbafa7b80f026c21196a.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "",
+                "datetime": "2017-03-05T18:54:01.780Z"
+            }
+        },
+        {
+            "_id": "58bc5f291f115c342568b66a",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.1276058,
+                    39.260746,
+                    41
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Azienda Racis",
+                "produttore": "Tiziana Racis",
+                "specie": "Pesche, arance, clementine",
+                "comune": "San Sperate",
+                "localita": "Strada San Sperate-Decimomannu",
+                "img": "<img src=\" //uploads/upload_943860a9632cbb9502b92c6a46dd94a9.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "",
+                "datetime": "2017-03-05T18:55:37.358Z"
+            }
+        },
+        {
+            "_id": "58bc5f6a1f115c342568b66b",
+            "__v": 0,
+            "geometry": {
+                "coordinates": [
+                    9.1276058,
+                    39.260746,
+                    41
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "nome": "Azienda Schirru",
+                "produttore": "Roberto Schirru",
+                "specie": "Pesche",
+                "comune": "San Sperate",
+                "localita": "Strada San Sperate-Decimomannu",
+                "img": "<img src=\" //uploads/upload_fe53670fb117a737bd33ad287b0b68ee.jpg\" alt=\"Immagine\" style=\"width:304px;height:228px;\">",
+                "coltivazione": "",
+                "datetime": "2017-03-05T18:56:42.595Z"
+            }
+        }
+    ]
+
+}
