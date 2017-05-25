@@ -1,0 +1,360 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [9.00509,
+			39.358277]
+		},
+		"properties": {
+			"cartodb_id": 1,
+			"larghezza": 150,
+			"altezza": 250,
+			"profondita": 130,
+			"images": "<img src='http://sciola.datinanta.org:8086/images/b78cf94a-68b9-4a80-ae87-e8f255e3b36f' height=100px />",
+			"year": null,
+			"weight": null,
+			"materiale": "Granito",
+			"descrizione": "Svultura in commemorazione dei morti nell attentato alle torri gemelle",
+			"category": "Scultura",
+			"name": "Le torri gemelle"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [9.005598,
+			39.358431]
+		},
+		"properties": {
+			"cartodb_id": 2,
+			"larghezza": 500,
+			"altezza": 170,
+			"profondita": 500,
+			"images": "[ ]",
+			"year": null,
+			"weight": null,
+			"materiale": "Ferro e cemento ",
+			"descrizione": "Rappresentazione della pesca, frutto tipico di San Sperate",
+			"category": "Scultura ",
+			"name": "Monumento alla frutta"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [9.004734,
+			39.358578]
+		},
+		"properties": {
+			"cartodb_id": 3,
+			"larghezza": 220,
+			"altezza": 130,
+			"profondita": 180,
+			"images": "[ ]",
+			"year": null,
+			"weight": null,
+			"materiale": "Ferro",
+			"descrizione": "Aratro antico",
+			"category": "Monumento",
+			"name": "Aratro"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [9.004734,
+			39.358578]
+		},
+		"properties": {
+			"cartodb_id": 4,
+			"larghezza": 220,
+			"altezza": 130,
+			"profondita": 180,
+			"images": "<img src='http://sciola.datinanta.org:8086/images/668f555e-a3ac-4e82-8ca9-f4c598ffe31c' height=100px />",
+			"year": null,
+			"weight": null,
+			"materiale": "Ferro",
+			"descrizione": "Aratro antico",
+			"category": "Monumento",
+			"name": "Aratro"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [9.006633,
+			39.359878]
+		},
+		"properties": {
+			"cartodb_id": 5,
+			"larghezza": null,
+			"altezza": null,
+			"profondita": null,
+			"images": "<img src='http://sciola.datinanta.org:8086/images/2c1057f0-9852-4c48-b02f-1411af80f6da' height=100px />",
+			"year": null,
+			"weight": null,
+			"materiale": "Vari",
+			"descrizione": "Sculture varie",
+			"category": "Sculture",
+			"name": "Giardino megalitico"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [9.005992,
+			39.359567]
+		},
+		"properties": {
+			"cartodb_id": 6,
+			"larghezza": null,
+			"altezza": null,
+			"profondita": null,
+			"images": "<img src='http://sciola.datinanta.org:8086/images/0a7db67e-a288-4a7c-bf14-1ec02ae17e96' height=100px />",
+			"year": null,
+			"weight": null,
+			"materiale": "Granito",
+			"descrizione": "Dolmen di ingresso",
+			"category": "Dolmen",
+			"name": "Pirta Giardino Megalitico"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [9.007047,
+			39.36069]
+		},
+		"properties": {
+			"cartodb_id": 7,
+			"larghezza": 60,
+			"altezza": 100,
+			"profondita": 60,
+			"images": "<img src='http://sciola.datinanta.org:8086/images/03feff9b-4ed1-4f05-a984-175be266431b' height=100px />",
+			"year": null,
+			"weight": null,
+			"materiale": "Basalto",
+			"descrizione": null,
+			"category": "Scultura",
+			"name": "Il pensatore"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [9.005608,
+			39.360799]
+		},
+		"properties": {
+			"cartodb_id": 8,
+			"larghezza": 80,
+			"altezza": 156,
+			"profondita": 100,
+			"images": "[ ]",
+			"year": null,
+			"weight": null,
+			"materiale": "Trachite",
+			"descrizione": "Scultura raffigurante madri con bambino",
+			"category": "Scultura",
+			"name": "Le madri"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [9.00577,
+			39.360909]
+		},
+		"properties": {
+			"cartodb_id": 9,
+			"larghezza": null,
+			"altezza": null,
+			"profondita": null,
+			"images": "<img src='http://sciola.datinanta.org:8086/images/85864870-a7ed-40d3-ba32-5bbbcfdee2b1' height=100px />",
+			"year": null,
+			"weight": null,
+			"materiale": "Trachite",
+			"descrizione": null,
+			"category": "Opera composta",
+			"name": "Il teatro"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [9.004648,
+			39.358826]
+		},
+		"properties": {
+			"cartodb_id": 10,
+			"larghezza": 75,
+			"altezza": 200,
+			"profondita": 80,
+			"images": "[ ]",
+			"year": null,
+			"weight": null,
+			"materiale": null,
+			"descrizione": null,
+			"category": "Scultura",
+			"name": "Baracca  redentoristi"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [9.004518,
+			39.358716]
+		},
+		"properties": {
+			"cartodb_id": 11,
+			"larghezza": 75,
+			"altezza": 160,
+			"profondita": 55,
+			"images": "<img src='http://sciola.datinanta.org:8086/images/09373163-e706-431b-a5a6-a224c69c6ddd'>",
+			"year": null,
+			"weight": null,
+			"materiale": "Trachite",
+			"descrizione": null,
+			"category": "Scultura",
+			"name": "Senza nome1"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [9.004475,
+			39.358759]
+		},
+		"properties": {
+			"cartodb_id": 12,
+			"larghezza": 45,
+			"altezza": 100,
+			"profondita": 55,
+			"images": "[ \"<img src='http:\\/\\/sciola.datinanta.org:8086\\/images\\/a0efbe52-f209-45dc-96d6-621f03502d9c'>\" ]",
+			"year": null,
+			"weight": null,
+			"materiale": "Trachite",
+			"descrizione": null,
+			"category": "Scultura",
+			"name": "Senza nome2"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [9.003957,
+			39.359121]
+		},
+		"properties": {
+			"cartodb_id": 13,
+			"larghezza": 350,
+			"altezza": 310,
+			"profondita": 370,
+			"images": "<img src='http://sciola.datinanta.org:8086/images/f6c5b455-40ed-4ff6-a437-2967902f00c3' height=100px />",
+			"year": null,
+			"weight": null,
+			"materiale": "Trachite",
+			"descrizione": "I gradini sembrano onde",
+			"category": "Scultura",
+			"name": "La vela"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [9.002403,
+			39.358116]
+		},
+		"properties": {
+			"cartodb_id": 14,
+			"larghezza": 40,
+			"altezza": 210,
+			"profondita": 50,
+			"images": "<img src='http://sciola.datinanta.org:8086/images/8f919cc2-95ff-43ea-8d04-de6fb4582dce' height=100px />",
+			"year": null,
+			"weight": null,
+			"materiale": "Granito",
+			"descrizione": null,
+			"category": "Scultura",
+			"name": "Torri gemelle gemelle"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [9.002267,
+			39.360637]
+		},
+		"properties": {
+			"cartodb_id": 15,
+			"larghezza": 115,
+			"altezza": 200,
+			"profondita": 100,
+			"images": "<img src='http://sciola.datinanta.org:8086/images/9f7e8db0-69c8-4a8f-ba1c-accdc2ae030d' height=100px />",
+			"year": null,
+			"weight": null,
+			"materiale": "Trachite",
+			"descrizione": "Madre con bimbo",
+			"category": "Scultura ",
+			"name": "Madre"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [9.002516,
+			39.357157]
+		},
+		"properties": {
+			"cartodb_id": 16,
+			"larghezza": null,
+			"altezza": null,
+			"profondita": null,
+			"images": "<img src='http://sciola.datinanta.org:8086/images/6bb03927-8376-4f08-850e-bff0cde5b312' height=100px />",
+			"year": null,
+			"weight": null,
+			"materiale": "Metallo",
+			"descrizione": null,
+			"category": null,
+			"name": "Omaggio a Gaudi"
+		}
+	},
+	{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [9.012271,
+			39.352977]
+		},
+		"properties": {
+			"cartodb_id": 17,
+			"larghezza": null,
+			"altezza": null,
+			"profondita": null,
+			"images": "<img src='http://sciola.datinanta.org:8086/images/1d8d2858-8a5b-485b-bfc0-10d8072462dc' height=100px />",
+			"year": null,
+			"weight": null,
+			"materiale": "Basalto",
+			"descrizione": null,
+			"category": "Scultura",
+			"name": "Pugnale"
+		}
+	}]
+}
